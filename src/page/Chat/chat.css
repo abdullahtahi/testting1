@@ -1,0 +1,33 @@
+.chatContainer {
+  background-color: #fafafa;
+  height: 100vh;
+}
+.chatPageData {
+  display: flex;
+}
+.ShowAllPeople {
+  flex: 1;
+}
+.ShowAllPeople .card {
+  height: 100vh;
+  /* margin: 0 2rem 0 0.5rem; */
+}
+.showChatBox {
+  flex: 3;
+}
+
+.chatInput {
+  display: flex;
+}
+
+.personName {
+  font-weight: 600;
+  padding-left: 25px;
+  font-size: 38px;
+  text-transform: capitalize;
+  border-bottom: 3px solid gray;
+  position: absolute;
+  margin-top: -16px;
+  background: white;
+  width: 100%;
+}

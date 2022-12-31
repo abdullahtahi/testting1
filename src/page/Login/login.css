@@ -1,0 +1,40 @@
+.centerMe {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginCard {
+  padding: 2rem;
+  width: 50%;
+  text-align: center;
+  margin: 2rem;
+}
+.card label {
+  text-align: initial;
+}
+.card input {
+  /* width: 70%; */
+  border-radius: 10px;
+  padding: 0.5rem;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+/* .card button {
+  text-align: center;
+  width: 100%;
+  background: #c9ffbf;
+  background: linear-gradient(to right, #ffafbd, #c9ffbf);
+  outline: none;
+  border: none;
+  height: 43px;
+  border-radius: 12px;
+  cursor: pointer;
+  color: white;
+  font-size: 17px;
+} */
+.loginTitle h2 {
+  color: gray;
+}

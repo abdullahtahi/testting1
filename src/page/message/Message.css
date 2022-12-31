@@ -1,0 +1,23 @@
+.myFriendMessage {
+  background: lightcoral;
+  display: block;
+  margin-left: 60%;
+  padding: 1rem;
+  /* float: right; */
+  margin-top: 1rem;
+  border-radius: 29px;
+}
+.own {
+  align-self: flex-end;
+  border-radius: 1rem 1rem 0 1rem;
+  margin-top: 1rem;
+  background: red;
+}
+
+.message {
+  display: block;
+  background: antiquewhite;
+  width: fit-content;
+  padding: 1rem;
+  border-radius: 29px;
+}
