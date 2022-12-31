@@ -50,8 +50,8 @@ export default function Testing() {
     // </div>
 
     <div>
-      Helo now I am in the Develop1 branch and i am going to merge with the
-      master
+      Helo now I am in the changing some in the develop1 Branch and perfroming
+      the git branch merge with master
     </div>
   );
 }
