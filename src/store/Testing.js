@@ -105,7 +105,7 @@ export default function Testing() {
                   </li>
                   <li>
                     <a class="dropdown-item" href="#">
-                      Something else here
+                      Something here
                     </a>
                   </li>
                 </ul>
@@ -117,7 +117,7 @@ export default function Testing() {
                   tabindex="-1"
                   aria-disabled="true"
                 >
-                  Disabled
+                  Disabledme
                 </a>
               </li>
             </ul>
