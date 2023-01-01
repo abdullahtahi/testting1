@@ -53,7 +53,7 @@ export default function Testing() {
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            Navbar
+            Ecommerce{" "}
           </a>
           <button
             class="navbar-toggler"
@@ -70,12 +70,12 @@ export default function Testing() {
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">
-                  Home
+                  Clothes
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Link
+                  Shirts
                 </a>
               </li>
               <li class="nav-item dropdown">
@@ -92,12 +92,12 @@ export default function Testing() {
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li>
                     <a class="dropdown-item" href="#">
-                      Action
+                      Hoodles
                     </a>
                   </li>
                   <li>
                     <a class="dropdown-item" href="#">
-                      Another action
+                      pents
                     </a>
                   </li>
                   <li>
@@ -105,7 +105,7 @@ export default function Testing() {
                   </li>
                   <li>
                     <a class="dropdown-item" href="#">
-                      Something else here
+                      Shorts
                     </a>
                   </li>
                 </ul>
@@ -117,7 +117,7 @@ export default function Testing() {
                   tabindex="-1"
                   aria-disabled="true"
                 >
-                  Disabled
+                  Shalwar
                 </a>
               </li>
             </ul>
@@ -129,7 +129,7 @@ export default function Testing() {
                 aria-label="Search"
               />
               <button class="btn btn-outline-success" type="submit">
-                Search
+                Search with Ecommerce
               </button>
             </form>
           </div>
