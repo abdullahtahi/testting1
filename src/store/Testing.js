@@ -52,15 +52,7 @@ export default function Testing() {
     <>
       <div>
         Helo now I am in the changing some in the develop1 Branch and perfroming
-        the git branch merge with master
-      </div>
-      <div>
-        Helo now I am in the changing some in the develop1 Branch and perfroming
-        the git branch merge with master
-        <div>
-          Helo now I am in the changing some in the develop1 Branch and
-          perfroming the git branch merge with master
-        </div>
+        the git branch ,please merge it with branch master
       </div>
     </>
   );
