@@ -124,12 +124,12 @@ export default function Testing() {
             <form class="d-flex">
               <input
                 class="form-control me-2"
-                type="search"
+                type="search with Ecommerce"
                 placeholder="Search"
                 aria-label="Search"
               />
               <button class="btn btn-outline-success" type="submit">
-                Search with Ecommerce
+                Search
               </button>
             </form>
           </div>
