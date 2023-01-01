@@ -75,7 +75,7 @@ export default function Testing() {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  About
+                  Aboutgit
                 </a>
               </li>
               <li class="nav-item dropdown">
