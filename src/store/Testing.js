@@ -75,7 +75,7 @@ export default function Testing() {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Linking us Testing
+                  Link
                 </a>
               </li>
               <li class="nav-item dropdown">
@@ -87,17 +87,17 @@ export default function Testing() {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Goals{" "}
+                  Dropdown
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li>
                     <a class="dropdown-item" href="#">
-                      our Goals{" "}
+                      Action
                     </a>
                   </li>
                   <li>
                     <a class="dropdown-item" href="#">
-                      Read about Our Goals
+                      Another action
                     </a>
                   </li>
                   <li>
@@ -117,7 +117,7 @@ export default function Testing() {
                   tabindex="-1"
                   aria-disabled="true"
                 >
-                  Know us more
+                  Disabled
                 </a>
               </li>
             </ul>
